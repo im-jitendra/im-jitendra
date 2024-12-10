@@ -4,8 +4,7 @@
 
 Welcome to my GitHub! I'm Jitendra Sharma, a passionate web developer with a focus on **React.js** and front-end technologies. Currently, I’m working to build innovative, user-friendly, and visually appealing web applications, while continuously improving my skills through hands-on experience and learning.
 
-📍 **Location**: Ahmedabad, Gujarat  
-📞 **Phone**: +91 9016652705  
+📍 **Location**: Ahmedabad, Gujarat    
 📧 **Email**: jitendraps2001@gmail.com  
 🔗 **LinkedIn**: [im-jitendra](https://linkedin.com/in/im-jitendra)  
 🌐 **GitHub**: [im-jitendra](https://github.com/im-jitendra)
