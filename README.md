@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jitendra Sharma</h1>
-<h3 align="center">React.js Developer | Front-End Enthusiast | Problem Solver</h3>
+<h1>Hi 👋, I'm Jitendra Sharma</h1>
+<h3>React.js Developer | Front-End Enthusiast | Problem Solver</h3>
 
 - 🌱 I’m currently learning **Static Site Generator Gatsby Js**
 
